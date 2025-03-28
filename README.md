@@ -8,7 +8,18 @@
 </p>
 
 ## About Google Keep clone
+Project: A Simple Version of Google Keep!
 
+Key Features
+Easily add and edit notes.
+Customize notes by changing the background color or attaching images.
+Better organization with archives and the Recycle Bin.
+Recover deleted notes or permanently delete them.
+Manage your personal account by changing your username, email, and password.
+Sign out option to maintain privacy.
+
+My goal with this project is to provide a lightweight and fast tool that helps users manage their notes easily and without complexity.
+**************************************************************************************************************************************
 
 ## License
 
