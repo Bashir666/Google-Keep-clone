@@ -8,7 +8,7 @@
 </p>
 
 ## About Google Keep clone
-Project: A Simple Version of Google Keep!
+Project: A Simple Version of Google Keep By Laravel 11
 
 Key Features
 Easily add and edit notes.
