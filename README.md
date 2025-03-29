@@ -21,9 +21,9 @@ Sign out option to maintain privacy.
 My goal with this project is to provide a lightweight and fast tool that helps users manage their notes easily and without complexity.
 **************************************************************************************************************************************
 ![image alt](https://github.com/Bashir666/Google-Keep-clone/blob/f83ea1df1a9404df2d396de20a3cdf4d8dd1330f/Screenshot%202025-03-29%20005743.png)
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/Bashir666/Google-Keep-clone/blob/900aa533fa8e60c6c201b0cfd996526e401cceca/Screenshot%202025-03-29%20005805.png)
+![image alt](https://github.com/Bashir666/Google-Keep-clone/blob/900aa533fa8e60c6c201b0cfd996526e401cceca/Screenshot%202025-03-29%20020213.png)
+![image alt](https://github.com/Bashir666/Google-Keep-clone/blob/900aa533fa8e60c6c201b0cfd996526e401cceca/Screenshot%202025-03-29%20020239.png)
 
 ## License
 
